@@ -6,6 +6,7 @@ The basic structure is thus:
 {
   "title": "Title",
   "description": "Description.",
+  "participants": [uid, …],
   "tasks": [{
     "title": "Title",
     "description": "Description.",
