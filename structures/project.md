@@ -4,6 +4,10 @@
 {
   "title": "Title",
   "description": "Description.",
-  "tasks": See tasks.md
+  "tasks": [{
+    "title": "Title",
+    "description": "Description.",
+    "timespans": [[uid, start, end], …]
+  }, …]
 }
 ```
