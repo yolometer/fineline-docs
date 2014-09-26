@@ -2,8 +2,8 @@
 `/project/:pid` returns a project object
 ```json
 {
-  "title": "Title"
-  "description": "Description."
+  "title": "Title",
+  "description": "Description.",
   "tasks": See tasks.md
 }
 ```
