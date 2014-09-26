@@ -14,3 +14,9 @@ The basic structure is thus:
   }, …]
 }
 ```
+
+#Semantics
+When updating the project data, HTTP verbs apply thusly:
+ - PUT puts all data present in the call, into the appropriate set.
+ - DELETE removes all data present in the call, in the appropriate sets.
+ - GET gets all data in the project.
