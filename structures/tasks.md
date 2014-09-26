@@ -4,6 +4,6 @@
 {
   title: "Title",
   description: "Description.",
-  timespans: [[uid, start, end]]
+  timespans: [[uid, start, end], …]
 }
 ```
