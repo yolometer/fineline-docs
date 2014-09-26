@@ -20,5 +20,5 @@ When updating the project data, HTTP verbs apply thusly:
  - PUT puts all data present in the call, into the appropriate set with special semantics depending on the set.
   - PUT which includes a timespan will put on a timespan on the same timespan id(tsid)
   - PUT which includes a task will put on a task of the same title property.
- - DELETE removes all data present in the call, in the appropriate sets.
- - GET gets all data in the project.
+ - DELETE removes data with the same semantics as PUT.
+ - GET gets all data in the project, or all changes since If-Modified-Since.
