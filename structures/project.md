@@ -3,6 +3,9 @@
 
 The basic structure is thus:
 ```json
+/**
+ * Project data
+ */
 {
   "title": "Title",
   "description": "Description.",
@@ -12,6 +15,16 @@ The basic structure is thus:
     "description": "Description.",
     "timespans": [[tsid, uid, start, end], …]
   }, …]
+}
+
+
+/**
+ * User data
+ */
+{
+  [uid: optional,]
+  "email": "such@doge.wow",
+  "name": "Doge Supreme"
 }
 ```
 
