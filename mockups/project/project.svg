@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="project.svg">
+   sodipodi:docname="project2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="575.66659"
-     inkscape:cy="421.51478"
+     inkscape:cx="571.5947"
+     inkscape:cy="428.20745"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,9 @@
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -87,6 +89,38 @@
        orientation="0,1"
        position="0,96"
        id="guide4017" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="400,668"
+       id="guide3069" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1366,626"
+       id="guide3073" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="400,417"
+       id="guide3108" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,768"
+       id="guide3882" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,768"
+       id="guide3884" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1366,-2.6171874e-06"
+       id="guide3886" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="700,768"
+       id="guide4092" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="396,768"
+       id="guide4129" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -115,19 +149,17 @@
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect2987"
-       width="400"
+       width="1366"
        height="768"
        x="0"
-       y="0"
-       transform="translate(0,284.36218)" />
+       y="284.36218" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect2989"
-       width="400"
+       width="1366"
        height="80"
        x="0"
-       y="0"
-       transform="translate(0,284.36218)" />
+       y="284.36218" />
     <g
        id="g3018">
       <rect
@@ -180,16 +212,23 @@
            x="48.08326"
            y="89.17749" /></flowRegion><flowPara
          id="flowPara3034" /></flowRoot>    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       style="fill:#bf7294;fill-opacity:1;stroke:none"
        id="rect3907"
-       width="400"
+       width="1366"
        height="63.999996"
        x="0"
        y="364.36218" />
+    <rect
+       y="364.36218"
+       x="0"
+       height="64"
+       width="396"
+       id="rect4127"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3036"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(0,286.65013)"><flowRegion
          id="flowRegion3038"><rect
            id="rect3040"
@@ -197,32 +236,39 @@
            height="64"
            x="40"
            y="88"
-           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="text-align:start;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
          id="flowPara3042"
-         style="font-size:18px">Create and document data and API structures</flowPara></flowRoot>    <rect
+         style="font-size:18px;fill:#ffffff">Create and document data and API structures</flowPara></flowRoot>    <rect
        y="428.36218"
        x="0"
        height="63.999996"
-       width="400"
+       width="1366"
        id="rect3903"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+       style="fill:#a7bf72;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4131"
+       width="396"
+       height="64"
+       x="0"
+       y="428.36218" />
     <flowRoot
        transform="translate(0,354.65013)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3816"
        xml:space="preserve"><flowRegion
          id="flowRegion3818"><rect
-           style="text-align:start;text-anchor:start"
+           style="text-align:start;text-anchor:start;fill:#ffffff"
            y="88"
            x="40"
            height="64"
            width="280"
            id="rect3820" /></flowRegion><flowPara
          id="flowPara3822"
-         style="font-size:18px">Set up major API routes</flowPara></flowRoot>    <rect
+         style="font-size:18px;fill:#ffffff">Set up major API routes</flowPara></flowRoot>    <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        id="rect3899"
-       width="400"
+       width="1366"
        height="63.999996"
        x="0"
        y="492.36218" />
@@ -243,7 +289,7 @@
        y="556.36218"
        x="0"
        height="63.999996"
-       width="400"
+       width="1366"
        id="rect3893"
        style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
     <flowRoot
@@ -270,72 +316,59 @@
        d="m 352,512.36218 0,24 18,-12 z"
        style="fill:#666666;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#666666;fill-opacity:1;stroke:none"
-       d="m 352,448.36218 0,24 18,-12 z"
-       id="path3905"
-       inkscape:connector-curvature="0" />
-    <path
        inkscape:connector-curvature="0"
        id="path3909"
        d="m 352,384.36218 0,24 18,-12 z"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       y="620.36218"
+       x="0"
+       height="80"
+       width="1366"
+       id="rect3911"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
     <g
-       id="g3923"
+       id="g3913"
        transform="translate(0,336)">
       <rect
-         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
-         id="rect3911"
-         width="400"
-         height="80"
-         x="0"
-         y="0"
-         transform="translate(0,284.36218)" />
-      <g
-         id="g3913">
-        <rect
-           y="308.36218"
-           x="357.33334"
-           height="31.999994"
-           width="5.3333325"
-           id="rect3915"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-        <rect
-           y="321.69553"
-           x="344"
-           height="5.3333325"
-           width="31.999994"
-           id="rect3917"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="32"
-         y="340.36218"
-         id="text3919"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3921"
-           x="32"
-           y="340.36218"
-           style="font-size:48px;fill:#333333">Design</tspan></text>
-    </g>
-    <g
-       id="g3995"
-       transform="translate(0,-2.6171874e-6)">
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect3915"
+         width="5.3333325"
+         height="31.999994"
+         x="357.33334"
+         y="308.36218" />
       <rect
-         y="700.36218"
-         x="0"
-         height="63.999996"
-         width="400"
-         id="rect3935"
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-      <path
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         d="m 352,720.36218 0,24 18,-12 z"
-         id="path3945"
-         inkscape:connector-curvature="0" />
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect3917"
+         width="31.999994"
+         height="5.3333325"
+         x="344"
+         y="321.69553" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3919"
+       y="676.36218"
+       x="32"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         style="font-size:48px;fill:#333333"
+         y="676.36218"
+         x="32"
+         id="tspan3921"
+         sodipodi:role="line">Design</tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect3935"
+       width="1366"
+       height="63.999996"
+       x="0"
+       y="700.36218" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3945"
+       d="m 352,720.36218 0,24 18,-12 z"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
     <flowRoot
        transform="translate(0,622.65013)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -349,22 +382,18 @@
            width="280"
            id="rect3941" /></flowRegion><flowPara
          style="font-size:18px"
-         id="flowPara3943">Create first-run visual mockups of the project view</flowPara></flowRoot>    <g
-       id="g4003"
-       transform="translate(0,-64.000003)">
-      <rect
-         y="828.36218"
-         x="0"
-         height="63.999996"
-         width="400"
-         id="rect3963"
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-      <path
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         d="m 352,848.36218 0,24 18,-12 z"
-         id="path3973"
-         inkscape:connector-curvature="0" />
-    </g>
+         id="flowPara3943">Create first-run visual mockups of the project view</flowPara></flowRoot>    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect3963"
+       width="1366"
+       height="63.999996"
+       x="0"
+       y="764.36218" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3973"
+       d="m 352,784.36218 0,24 18,-12 z"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
     <flowRoot
        transform="translate(0,682.65013)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -378,22 +407,18 @@
            width="280"
            id="rect3969" /></flowRegion><flowPara
          style="font-size:18px"
-         id="flowPara3971">Finalize design for MVP, and implement with React</flowPara></flowRoot>    <g
-       id="g4007"
-       transform="translate(0,-64.000003)">
-      <rect
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-         id="rect3977"
-         width="400"
-         height="63.999996"
-         x="0"
-         y="892.36218" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3987"
-         d="m 352,912.36218 0,24 18,-12 z"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-    </g>
+         id="flowPara3971">Finalize design for MVP, and implement with React</flowPara></flowRoot>    <rect
+       y="828.36218"
+       x="0"
+       height="63.999996"
+       width="1366"
+       id="rect3977"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       d="m 352,848.36218 0,24 18,-12 z"
+       id="path3987"
+       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3979"
@@ -407,5 +432,88 @@
            y="88"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3985"
-         style="font-size:18px">Ensure consistency after interactivity is added to the page</flowPara></flowRoot>  </g>
+         style="font-size:18px">Ensure consistency after interactivity is added to the page</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="400.125"
+       y="350.75"
+       id="text3079"
+       sodipodi:linespacing="125%"
+       transform="translate(0,284.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3081"
+         x="400.125"
+         y="350.75" /></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
+       id="rect3900"
+       width="4"
+       height="768"
+       x="396"
+       y="284.36218" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.15"
+       id="rect3902"
+       width="300"
+       height="64"
+       x="860"
+       y="364.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="922.79675"
+       y="407.51419"
+       id="text3904"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         x="922.79675"
+         y="407.51419"
+         style="font-size:32px;fill:#ffffff">20 MINUTES</tspan></text>
+    <path
+       style="fill:none;stroke:#656565;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 8;stroke-dashoffset:0;marker-start:none"
+       d="m 1160,284.36218 0,768.00002"
+       id="path3910"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="428.36218"
+       x="700"
+       height="64"
+       width="300"
+       id="rect4113"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.15" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4115"
+       y="471.51419"
+       x="762.79675"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       xml:space="preserve"><tspan
+         style="font-size:32px;fill:#ffffff"
+         y="471.51419"
+         x="762.79675"
+         id="tspan4117"
+         sodipodi:role="line">20 MINUTES</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4133"
+       width="8"
+       height="24"
+       x="346"
+       y="448.36218" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4135"
+       width="8"
+       height="24"
+       x="360"
+       y="448.36218" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4137"
+       width="24"
+       height="24"
+       x="304"
+       y="448.36218" />
+  </g>
 </svg>
