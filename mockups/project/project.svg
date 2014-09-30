@@ -14,10 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="project6.svg"
-   inkscape:export-filename="/home/aaron/rnd/project3.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="project7.svg"
+   inkscape:export-filename="/home/aaron/rnd/project7.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <linearGradient
@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1219.9391"
-     inkscape:cy="570.41508"
+     inkscape:zoom="1"
+     inkscape:cx="1044.1818"
+     inkscape:cy="476.11496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -845,7 +845,7 @@
          y="743.51416"
          x="1243.8037"
          id="tspan4506"
-         sodipodi:role="line"> TOTAL</tspan></text>
+         sodipodi:role="line"> DONE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
