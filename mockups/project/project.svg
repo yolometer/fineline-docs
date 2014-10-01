@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="project8.svg"
+   sodipodi:docname="project.svg"
    inkscape:export-filename="/home/aaron/rnd/project7.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -69,8 +69,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="637.17299"
-     inkscape:cy="384.34359"
+     inkscape:cx="719.94525"
+     inkscape:cy="391.85054"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -555,9 +555,9 @@
        x="0"
        y="892.36218" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.40000000000000002"
+       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none"
        id="rect3900"
-       width="4"
+       width="2"
        height="768"
        x="396"
        y="284.36218" />
