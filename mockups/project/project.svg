@@ -69,8 +69,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="719.94525"
-     inkscape:cy="391.85054"
+     inkscape:cx="679.15712"
+     inkscape:cy="392.12418"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +83,8 @@
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -250,18 +251,18 @@
        x="0"
        y="284.36218" />
     <g
-       id="g3018">
+       id="g5688">
       <rect
          y="308.36218"
-         x="357.33334"
-         height="31.999994"
-         width="5.3333325"
+         x="358"
+         height="32"
+         width="3.9999905"
          id="rect3010"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
       <rect
-         y="321.69553"
+         y="322.36218"
          x="344"
-         height="5.3333325"
+         height="3.99999"
          width="31.999994"
          id="rect3012"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
@@ -423,24 +424,6 @@
        width="1366"
        id="rect3911"
        style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
-    <g
-       id="g3913"
-       transform="translate(0,336)">
-      <rect
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         id="rect3915"
-         width="5.3333325"
-         height="31.999994"
-         x="357.33334"
-         y="308.36218" />
-      <rect
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         id="rect3917"
-         width="31.999994"
-         height="5.3333325"
-         x="344"
-         y="321.69553" />
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text3919"
@@ -875,24 +858,6 @@
        d="m 28,320.36218 -16,0 8,12 z"
        id="path4605"
        inkscape:connector-curvature="0" />
-    <g
-       transform="translate(0,608)"
-       id="g4609">
-      <rect
-         y="308.36218"
-         x="357.33334"
-         height="31.999994"
-         width="5.3333325"
-         id="rect4611"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-      <rect
-         y="321.69553"
-         x="344"
-         height="5.3333325"
-         width="31.999994"
-         id="rect4613"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -939,6 +904,42 @@
        d="m 14,926.36218 0,16 12,-8 z"
        id="path3452"
        inkscape:connector-curvature="0" />
+    <g
+       id="g5692"
+       transform="translate(0,336)">
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect5694"
+         width="3.9999905"
+         height="32"
+         x="358"
+         y="308.36218" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect5696"
+         width="31.999994"
+         height="3.99999"
+         x="344"
+         y="322.36218" />
+    </g>
+    <g
+       transform="translate(0,608)"
+       id="g5698">
+      <rect
+         y="308.36218"
+         x="358"
+         height="32"
+         width="3.9999905"
+         id="rect5700"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <rect
+         y="322.36218"
+         x="344"
+         height="3.99999"
+         width="31.999994"
+         id="rect5702"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
