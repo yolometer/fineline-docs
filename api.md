@@ -26,9 +26,16 @@ Returns int corresponding to the new project's ID
 }
 ```
 
+#### Adding participants to a project
+
+`POST /project/:id/participants`
+```
+[ 1, 2, 3 ...]
+```
+
 #### Finding participants on a project
 
-`GET /project/:id/users`
+`GET /project/:id/participants`
 ```
 [
   {
@@ -41,7 +48,7 @@ Returns int corresponding to the new project's ID
     id: 8,
     email: "raf@raf.raf",
     name: "Raf"
-  },
+  }
 ]
 ```
 
@@ -51,19 +58,23 @@ Returns int corresponding to the new project's ID
 #### Creating a user
 
 `POST /user`
+```
 {
   "name": "Rafael Khan",
   "email": "420@blaze.it"
 }
+```
 
 returns int corresponding to the new user's ID
 
 #### Fetching a user
 
 `GET /user/:id`
+```
 {
   "id": 2,
   "name": "Rafael Khan",
   "email": "420@blaze.it"
 }
+```
 
