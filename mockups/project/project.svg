@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="project.svg"
-   inkscape:export-filename="/home/aaron/rnd/project7.png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180">
+   inkscape:export-filename="/home/aaron/rnd/tmp.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -69,8 +69,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="679.15712"
-     inkscape:cy="392.12418"
+     inkscape:cx="543.82485"
+     inkscape:cy="364.57421"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -133,7 +133,7 @@
        id="guide4015" />
     <sodipodi:guide
        orientation="1,0"
-       position="400,668"
+       position="394,768"
        id="guide3069" />
     <sodipodi:guide
        orientation="1,0"
@@ -157,11 +157,7 @@
        id="guide4129" />
     <sodipodi:guide
        orientation="1,0"
-       position="1160,768"
-       id="guide4160" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1243.8037,644.84799"
+       position="1246,768"
        id="guide4250" />
     <sodipodi:guide
        orientation="0,1"
@@ -169,16 +165,12 @@
        id="guide4252" />
     <sodipodi:guide
        orientation="0,1"
-       position="547.79675,644.84799"
+       position="1291.5,644.84799"
        id="guide4262" />
     <sodipodi:guide
        orientation="0,1"
        position="32,712"
        id="guide4276" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="485,16"
-       id="guide4288" />
     <sodipodi:guide
        orientation="0,1"
        position="964.28802,516.84802"
@@ -187,10 +179,6 @@
        orientation="0,1"
        position="964.28802,452.84802"
        id="guide4389" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1179.4541,452.84802"
-       id="guide4391" />
     <sodipodi:guide
        orientation="0,1"
        position="964.28802,308.84802"
@@ -211,6 +199,10 @@
        orientation="0,1"
        position="0,79.999997"
        id="guide3395" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1305.5031,712.41009"
+       id="guide3980" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -229,6 +221,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.36218)">
+    <rect
+       style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4581"
+       width="89"
+       height="80"
+       x="440.5"
+       y="288.42804" />
     <rect
        y="556.36218"
        x="0"
@@ -269,16 +268,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="32"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="36"
        y="340.36218"
        id="text3014"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3016"
-         x="32"
+         x="36"
          y="340.36218"
-         style="font-size:48px;fill:#333333">Development</tspan></text>
+         style="font-size:48px;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Development</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -294,7 +293,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3028"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Cantarell;font-style:normal;font-weight:normal;font-size:24px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Cantarell;font-stretch:normal;font-variant:normal;text-anchor:end;text-align:end"><flowRegion
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"><flowRegion
          id="flowRegion3030"><rect
            id="rect3032"
            width="335.87573"
@@ -304,8 +303,8 @@
          id="flowPara3034" /></flowRoot>    <rect
        style="fill:#bf7294;fill-opacity:1;stroke:none"
        id="rect3907"
-       width="1366"
-       height="63.999996"
+       width="396"
+       height="64"
        x="0"
        y="364.36218" />
     <rect
@@ -332,7 +331,7 @@
        y="428.36218"
        x="0"
        height="63.999996"
-       width="1366"
+       width="396"
        id="rect3903"
        style="fill:#a7bf72;fill-opacity:1;stroke:none" />
     <rect
@@ -355,13 +354,11 @@
            width="280"
            id="rect3820" /></flowRegion><flowPara
          id="flowPara3822"
-         style="font-size:18px;fill:#ffffff">Set up major API routes</flowPara></flowRoot>    <rect
+         style="font-size:18px;fill:#ffffff">Set up major API routes</flowPara></flowRoot>    <path
        style="fill:#72bfaf;fill-opacity:1;stroke:none"
+       d="m 0,492.36218 0,64 396,0 0,-64 -396,0 z"
        id="rect3899"
-       width="1366"
-       height="63.999996"
-       x="0"
-       y="492.36218" />
+       inkscape:connector-curvature="0" />
     <rect
        y="492.36218"
        x="0"
@@ -385,8 +382,8 @@
          style="font-size:18px;fill:#ffffff">Build services to synchronize the data</flowPara></flowRoot>    <rect
        y="556.36218"
        x="0"
-       height="63.999996"
-       width="1366"
+       height="64"
+       width="396"
        id="rect3893"
        style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
     <flowRoot
@@ -428,18 +425,18 @@
        sodipodi:linespacing="125%"
        id="text3919"
        y="676.36218"
-       x="32"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="36"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="font-size:48px;fill:#333333"
+         style="font-size:48px;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="676.36218"
-         x="32"
+         x="36"
          id="tspan3921"
          sodipodi:role="line">Design</tspan></text>
     <rect
        style="fill:#bf8372;fill-opacity:1;stroke:none"
        id="rect3935"
-       width="1366"
+       width="396"
        height="63.999996"
        x="0"
        y="700.36218" />
@@ -471,7 +468,7 @@
          id="flowPara3943">Create first-run visual mockups of the project view</flowPara></flowRoot>    <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        id="rect4471"
-       width="1366"
+       width="396"
        height="63.999996"
        x="0"
        y="764.36218" />
@@ -497,7 +494,7 @@
        y="828.36218"
        x="0"
        height="63.999996"
-       width="1366"
+       width="396"
        id="rect4473"
        style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
     <path
@@ -542,52 +539,15 @@
        id="rect3900"
        width="2"
        height="768"
-       x="396"
+       x="394"
        y="284.36218" />
-    <g
-       id="g4565">
-      <rect
-         y="364.36218"
-         x="485"
-         height="64"
-         width="300"
-         id="rect3902"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3904"
-         y="407.51419"
-         x="547.79675"
-         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-         xml:space="preserve"><tspan
-           style="font-size:32px;fill:#ffffff"
-           y="407.51419"
-           x="547.79675"
-           id="tspan3906"
-           sodipodi:role="line">20 MINUTES</tspan></text>
-    </g>
-    <g
-       id="g4570">
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
-         id="rect4113"
-         width="225"
-         height="64"
-         x="935"
-         y="428.36218" />
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-         x="964.28802"
-         y="471.51419"
-         id="text4115"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan4189"
-           sodipodi:role="line"
-           x="964.28802"
-           y="471.51419"
-           style="font-size:32px;fill:#ffffff">15 MINUTES</tspan></text>
-    </g>
+    <rect
+       style="fill:#a7bf72;fill-opacity:1;stroke:none"
+       id="rect3180"
+       width="225.00002"
+       height="63.999996"
+       x="1021"
+       y="428.36218" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4133"
@@ -601,13 +561,6 @@
        width="8"
        height="24"
        x="360"
-       y="448.36218" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4137"
-       width="24"
-       height="24"
-       x="304"
        y="448.36218" />
     <text
        xml:space="preserve"
@@ -633,226 +586,114 @@
          id="tspan4256"
          x="1228.9517"
          y="144.33182" /></text>
-    <rect
-       y="492.36218"
-       x="396"
-       height="64"
-       width="89"
-       id="rect4290"
-       style="opacity:0.14999999999999999;fill:#000000;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.8037"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="471.51419"
        id="text4244"
        sodipodi:linespacing="125%"><tspan
          id="tspan4246"
          sodipodi:role="line"
-         x="1243.8037"
+         x="1305.5031"
          y="471.51419"
-         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff">15</tspan></text>
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">00:15</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4264"
        y="407.51419"
-       x="1243.8037"
-       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="1305.5031"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="407.51419"
-         x="1243.8037"
+         x="1305.5031"
          sodipodi:role="line"
-         id="tspan4272">20</tspan></text>
+         id="tspan4272">00:20</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1244.5109"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="339.95209"
        id="text4278"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4280"
-         x="1244.5109"
+         x="1305.5031"
          y="339.95209"
-         style="font-size:32px;fill:#333333">3:35</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4282"
-       y="340.36218"
-       x="1243.8037"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       xml:space="preserve"><tspan
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#333333"
-         y="340.36218"
-         x="1243.8037"
-         id="tspan4284"
-         sodipodi:role="line"> TOTAL</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4320"
-       y="535.51416"
-       x="1243.8037"
-       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       xml:space="preserve"><tspan
-         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff"
-         y="535.51416"
-         x="1243.8037"
-         sodipodi:role="line"
-         id="tspan4322">3:00</tspan></text>
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">03:35</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1179.4541"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="599.51416"
        id="text4393"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4395"
-         x="1179.4541"
+         x="1305.5031"
          y="599.51416"
-         style="fill:#cccccc">UNSTARTED</tspan></text>
+         style="text-align:center;text-anchor:middle;fill:#cccccc;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">00:00</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.8037"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="535.51416"
        id="text4399"
        sodipodi:linespacing="125%"><tspan
          id="tspan4401"
          sodipodi:role="line"
-         x="1243.8037"
+         x="1305.5031"
          y="535.51416"
-         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff">3:00</tspan></text>
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">03:00</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4415"
        y="743.51416"
-       x="1243.8037"
-       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="1305.5031"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="font-size:32px;text-align:end;text-anchor:end;fill:#ffffff"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="743.51416"
-         x="1243.8037"
+         x="1305.5031"
          sodipodi:role="line"
-         id="tspan4417">1:00</tspan></text>
+         id="tspan4417">01:00</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4425"
        y="676.36218"
-       x="1243.8037"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="1305.5031"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="font-size:32px;fill:#333333"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="676.36218"
-         x="1243.8037"
+         x="1305.5031"
          id="tspan4427"
-         sodipodi:role="line">1:00</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.0966"
-       y="676.77228"
-       id="text4429"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4431"
-         x="1243.0966"
-         y="676.77228"
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#333333"> TOTAL</tspan></text>
+         sodipodi:role="line">01:00</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4449"
        y="807.51416"
-       x="1179.4541"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
+       x="1306.3146"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="fill:#cccccc"
+         style="text-align:center;text-anchor:middle;fill:#cccccc;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="807.51416"
-         x="1179.4541"
+         x="1306.3146"
          id="tspan4451"
-         sodipodi:role="line">UNSTARTED</tspan></text>
+         sodipodi:role="line">00:00</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1179.4541"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="871.51416"
        id="text4453"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4455"
-         x="1179.4541"
+         x="1305.5031"
          y="871.51416"
-         style="fill:#cccccc">UNSTARTED</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4504"
-       y="743.51416"
-       x="1243.8037"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       xml:space="preserve"><tspan
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
-         y="743.51416"
-         x="1243.8037"
-         id="tspan4506"
-         sodipodi:role="line"> DONE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.8037"
-       y="535.51416"
-       id="text4508"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4510"
-         x="1243.8037"
-         y="535.51416"
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"> DONE</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4512"
-       y="471.51419"
-       x="1243.8037"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       xml:space="preserve"><tspan
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"
-         y="471.51419"
-         x="1243.8037"
-         id="tspan4514"
-         sodipodi:role="line"> ON IT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.8037"
-       y="407.51419"
-       id="text4516"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4518"
-         x="1243.8037"
-         y="407.51419"
-         style="font-size:32px;text-align:start;text-anchor:start;fill:#ffffff"> DONE</tspan></text>
-    <rect
-       style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4581"
-       width="89"
-       height="80"
-       x="396"
-       y="284.36218" />
-    <rect
-       y="284.36218"
-       x="485"
-       height="80"
-       width="300"
-       id="rect4585"
-       style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4596"
-       width="225"
-       height="80"
-       x="935"
-       y="284.36218" />
+         style="text-align:center;text-anchor:middle;fill:#cccccc;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">00:00</tspan></text>
     <path
        style="fill:#333333;fill-opacity:1;stroke:none"
        d="m 28,320.36218 -16,0 8,12 z"
@@ -860,28 +701,28 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="32"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="36"
        y="948.36218"
        id="text4615"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4617"
-         x="32"
+         x="36"
          y="948.36218"
-         style="font-size:48px;fill:#333333">Deployment</tspan></text>
+         style="font-size:48px;fill:#333333;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Deployment</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Interstate;-inkscape-font-specification:Interstate Bold Italic"
-       x="1243.8037"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="1305.5031"
        y="948.36218"
        id="text4619"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4621"
-         x="1243.8037"
+         x="1305.5031"
          y="948.36218"
-         style="font-size:32px;fill:#333333">1:00</tspan></text>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Roboto;-inkscape-font-specification:Roboto">00:30</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4623"
@@ -893,7 +734,7 @@
          y="948.77228"
          x="1243.0966"
          id="tspan4625"
-         sodipodi:role="line"> TOTAL</tspan></text>
+         sodipodi:role="line" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path3450"
@@ -940,6 +781,18 @@
          id="rect5702"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
     </g>
+    <rect
+       y="364.36218"
+       x="571.5"
+       height="64"
+       width="300"
+       id="rect3175"
+       style="fill:#bf7294;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3976"
+       d="m 396,492.36218 0,64 175.5,0 0,-64 -175.5,0 z"
+       style="fill:#72bfaf;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -961,7 +814,7 @@
      inkscape:label="Time rule"
      sodipodi:insensitive="true">
     <g
-       transform="translate(0,-284.36218)"
+       transform="translate(86,-284.36218)"
        id="g3417">
       <path
          sodipodi:nodetypes="cc"
@@ -1022,9 +875,8 @@
            style="font-size:28px">NOW</tspan></text>
     </g>
     <path
-       transform="translate(0,-284.36218)"
-       style="opacity:0.40000000000000002;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 8;stroke-dashoffset:0;marker-start:none"
-       d="m 1160,284.36218 0,674.00002"
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 8;stroke-dashoffset:0;marker-start:none"
+       d="m 1246,0 0,674.00002"
        id="path3910"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
